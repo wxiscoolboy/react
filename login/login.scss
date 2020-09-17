@@ -1,0 +1,17 @@
+$base: #FF2F66;
+
+.login-container{
+
+    background-color: #FFF;
+    height: 100%;
+
+
+    .logo{
+        width: 200px;
+
+    }
+
+    a{
+        color: $base
+    }
+}
